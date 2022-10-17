@@ -1,10 +1,8 @@
-## Color Flipper Project
-This is a mini-project showcasing my skills in manipulating the DOM. The Key concepts I practice with this project Include:
-- arrays
-- Math.floor()
-- Math.random()
-- array.length
-- addEventListener()
-- document.body.style.backgroundColor
-- document.getElementById()
-- document.querySelector()
+## JavaScript Projects
+This is a repository containing links to projects showcasing my JavaScript skills. Every week,I complete a project to master JavaScript skills and add it here. I built the projects with:
+- JavaScript
+- Tailwind
+
+Below are the links to the projects and the skills I gained from building the projects:
+
+Color-flipper
